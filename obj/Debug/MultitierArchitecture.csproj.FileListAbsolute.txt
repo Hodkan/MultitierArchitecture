@@ -1,0 +1,17 @@
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\MultitierArchitecture.exe.config
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\MultitierArchitecture.exe
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\MultitierArchitecture.pdb
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\DataAccessLayer.dll
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\EntityLayer.dll
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\LogicLayer.dll
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\DataAccessLayer.pdb
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\EntityLayer.pdb
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\bin\Debug\LogicLayer.pdb
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.csprojAssemblyReference.cache
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.Form1.resources
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.Properties.Resources.resources
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.csproj.GenerateResource.cache
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.csproj.CopyComplete
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.exe
+C:\Users\aliay\source\repos\MultitierArchitecture\MultitierArchitecture\obj\Debug\MultitierArchitecture.pdb
